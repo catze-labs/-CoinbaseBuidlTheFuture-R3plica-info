@@ -182,6 +182,10 @@ The use of white and blacklists for users can be improved through the use of fSB
 
 PAfSBT can also be used to transfer user accounts, depending on the design. By emphasizing the characteristics of NFT, PAfSBT can be designed to allow for multiple transfers. This means that in-game empirical elements, such as levels, achievements, attributed items, and skills, can potentially be traded using PAfSBT, even if the information of existing services is linked to a wallet and cannot be moved.
 
+#### Using fSBT to build a sustainable community building
+
+Furthermore, fSBT can be used to build sustainable communities. While current NFT communities may have a form and property that can be easily moved, fSBT can be used to emphasize communities that are more persistent and meaningful over time.
+
 ### In the game
 
 #### Tangible and intangible assets of user experience
