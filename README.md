@@ -18,7 +18,7 @@
 
 ## Links <a name="links"></a>
 
-- Website : https://r3plica-web.vercel.app
+- Website : https://r3plica-xdc.vercel.app/
 
 - Game Client: https://github.com/catze-labs/r3plica-unity-public
 
