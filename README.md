@@ -24,7 +24,7 @@
 
 - Game Server: PlayFab
 
-- Front-end: https://github.com/catze-labs/r3plica-web
+- Front-end: https://github.com/catze-labs/r3plica-web/tree/xdc
 
 - Back-end: https://github.com/catze-labs/r3plica-server/tree/xdc-dev
 
