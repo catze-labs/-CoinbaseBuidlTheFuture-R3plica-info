@@ -214,7 +214,10 @@ Additionally, fSBT can function as a device to limit user behavior, similar to a
 
 ## Architecture<a name="architecture"></a>
 
-The implementation of the r3plica SDK can be largely divided into six areas.
+![r3plica-xdc-arch](https://user-images.githubusercontent.com/75708535/211277705-d6c059e5-1149-443b-a353-621d88b31a00.png)
+
+
+The implementation of the r3plica can be largely divided into six areas.
 
 - Game Client: [https://github.com/catze-labs/r3plica-unity-public](https://github.com/catze-labs/r3plica-unity-public)
 - Game Server: PlayFab
